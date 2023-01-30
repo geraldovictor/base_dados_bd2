@@ -1,0 +1,11 @@
+id;nome;descricao;valor;fk_funcionario_id
+1;Manicure e Pedicure; serviços de cuidados com as unhas das mãos e pés, incluindo corte, limpeza, aplicação de esmalte e tratamentos para fortalecimento.;100;4
+2;Corte de cabelo; serviços de corte, penteado e estilo de cabelo para homens e mulheres.;30;4
+3;Coloração; serviços de coloração de cabelo, incluindo tingimento, luzes e reflexos.;100;2
+4;Maquiagem; serviços de maquiagem para eventos especiais, como casamentos e formaturas.;200;9
+5;Depilação; serviços de remoção de pelos indesejados, incluindo cera, lâmina e laser.;300;5
+6;Tratamentos faciais; serviços de cuidados com a pele, incluindo limpeza, hidratação, rejuvenescimento e tratamentos para acne.;50;9
+7;Massagem; serviços de massagem para relaxamento e alívio de tensão.;50;5
+8;Spa; serviços de spa, incluindo banhos, saunas e tratamentos corporais.;250;8
+9;Extensões de cabelo; serviços de extensão de cabelo, incluindo tranças, mechas e cabelo natural.;400;10
+10;Tratamentos de cabelo; serviços de tratamentos capilares, incluindo hidratação, reconstrução, alisamento e escova progressiva.;100;8
